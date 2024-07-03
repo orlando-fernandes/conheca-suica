@@ -1,0 +1,13 @@
+.container-services {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+
+.container-services img {
+    width: 400px;
+    height: auto;
+    margin: 50px 50px;
+}
